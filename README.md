@@ -1,6 +1,6 @@
 # IMPORTANT - must have autopy, numpy, cv2 and mediapipe installed
 
-# To install these libraries runt the following code:
+# To install these libraries run the following code:
 # pip install cv2
 # pip install numpy
 # pip install autopy
